@@ -24,13 +24,13 @@ class Messages():
       HELP_MSG = [
         ".",
 
-        "**Force Subscribe by SK4S**\n\nForce group members to join a specific channel before sending messages in the group.\nI will mute members if they not joined your channel and tell them to join the channel and unmute themself by pressing a button.",
+        "**Force Subscribe by Oberon Phelonious**\n\nForce group members to join a specific channel before sending messages in the group.\nI will mute members if they not joined your channel and tell them to join the channel and unmute themself by pressing a button.",
         
         "**Setup**\n\nFirst of all add me in the group as admin with ban users permission and in the channel as admin.\nNote: Only creator of the group can setup me and i will leave the chat if i am not an admin in the chat.",
         
         "**Commmands**\n\n__/ForceSubscribe__ - To get the current settings.\n\n__/ForceSubscribe no/off/disable__ - To turn of ForceSubscribe.\n\n__/ForceSubscribe {channel username}__ - To turn on and setup the channel.\n\n__/ForceSubscribe clear__ - To unmute all members who muted by me__.\n\n*Note:* /FSub is an alias of /ForceSubscribe",
         
-        "**Developed by @SACHINK4S \n\nSupport : @SK4S_AllChannel**"
+        "**Developed by @ShadowPKx**"
       ]
 
       START_MSG = "**Hey [{}](tg://user?id={})**\nI can force members to join a specific channel before writing messages in the group.\n\nLearn more at /help"

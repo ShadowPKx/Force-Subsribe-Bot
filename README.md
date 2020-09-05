@@ -1,6 +1,6 @@
 # Introduction
 **A Telegram Bot to force users to join a specific channel before sending messages in a group.**
-- Find it on Telegram as [SK4S](https://t.me/SK4S_SubscribeBot)
+- Find it on Telegram as [🔕MUTE](https://t.me/@submute_bot)
 
 ## Todo
 - [ ] Add multiple channels support
@@ -10,16 +10,16 @@
 
 ## Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sachink4s/Force-SubscribeBot/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ShadowPKx/Force-Subsribe-Bot/tree/master)
 
 ### Installation
 - Clone this repo
 ```
-git clone https://github.com/sachink4s/Force-SubscribeBot
+git clone https://github.com/ShadowPKx/Force-Subsribe-Bot
 ```
 - Change directory
 ```
-cd Force-SubscribeBot
+cd Force-Subsribe-Bot
 ```
 - Install requirements
 ```

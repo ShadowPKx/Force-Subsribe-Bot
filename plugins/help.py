@@ -42,9 +42,9 @@ def map(pos):
             [InlineKeyboardButton(text = 'Next', callback_data = "help+2")]
         ]
     elif(pos==len(tr.HELP_MSG)-1):
-        url = "https://t.me/SACHINK4S"
+        url = "https://github.com/ShadowPKx/Force-Subsribe-Bot"
         button = [
-            [InlineKeyboardButton(text = 'Support Us', url="https://t.me/SK4S_ALLCHANNEL")],
+            [InlineKeyboardButton(text = 'Support Us', url="https://qiwi.com/n/SHADOWPKX")],
             [InlineKeyboardButton(text = 'Feature Request & Issues', url=url)],
             [InlineKeyboardButton(text = 'Back', callback_data = f"help+{pos-1}")]
         ]
